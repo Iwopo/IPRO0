@@ -1,4 +1,4 @@
-<h1 align="center">Wesh 👋, J'suis IPRO</h1>
+<h1 align="center">Wesh 👋, J'suis I</h1>
 <h3 align="center">Un développeur passionné originaire de Charleroi</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/04/e9/f8/04e9f8c564777bb45f92d4797912874b.gif">
 
